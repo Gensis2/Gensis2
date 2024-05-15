@@ -6,7 +6,7 @@ I am a first year Computer Engineering PhD. Candidate at the University of Centr
 
 ## About Me
 :desktop_computer: First Year Computer Engineering PhD. Candidate @ [**University of Central Florida**][https://www.ucf.edu/]
-:mortor_board: Graduated with my Bachelors Degree in Computer Engineering VLSI @ [**University of Central Florida**][https://www.ucf.edu/]
+:mortar_board: Graduated with my Bachelors Degree in Computer Engineering VLSI @ [**University of Central Florida**][https://www.ucf.edu/]
 :microscope: Graduate Research Assistant @ [**Unary Lab**][https://www.unarylab.com/]
 :briefcase: Previous ACM UCF Student Chapter Chair @[**Association of Computing Machinery UCF**][https://www.acmucf.org/]
 
