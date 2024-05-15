@@ -1,5 +1,5 @@
 
-<a class ="WelcomeSVG" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Cascadia+Code&size=40&&color=656e75&random=false&width=435&height=75&lines=Welcome!;" alt="Typing SVG" /></a>
+<a class ="WelcomeSVG" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Cascadia+Code&size=40&&color=97bedb&random=false&width=435&height=75&lines=Welcome!;" alt="Typing SVG" /></a>
 
 
 # Im Daniel Price
