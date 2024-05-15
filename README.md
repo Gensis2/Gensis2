@@ -5,11 +5,10 @@
 I am a first year Computer Engineering PhD. Candidate at the University of Central Florida! I am driven to pursue cutting-edge research that not only advances the field of computer engineering but also addresses pressing challenges facing society today.
 
 ## About Me
-:desktop_computer: First Year Computer Engineering PhD. Candidate @ [**University of Central Florida**](https://www.ucf.edu/)
+:desktop_computer: First Year Computer Engineering PhD. Candidate @ [**University of Central Florida**](https://www.ucf.edu/) <br>
 :mortar_board: Bachelors Degree Graduate in Computer Engineering VLSI @ [**University of Central Florida**](https://www.ucf.edu/) <br>
 :microscope: Graduate Research Assistant @ [**Unary Lab**](https://www.unarylab.com/) <br>
 :briefcase: Previous ACM UCF Student Chapter Chair @[**Association of Computing Machinery UCF**](https://www.acmucf.org/) <br>
-
 
 ## Research Interests
 Computer Architecture
