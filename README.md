@@ -11,10 +11,10 @@ I am a first year Computer Engineering PhD. Candidate at the University of Centr
 :briefcase: Previous ACM UCF Student Chapter Chair @[**Association of Computing Machinery UCF**](https://www.acmucf.org/) <br>
 
 ## Research Interests
-Computer Architecture <br>
-Hardware Accelerator Design <br>
-Machine Learning and AI Systems <br>
-Neurmorphic Computing <br>
+- Computer Architecture <br>
+- Hardware Accelerator Design <br>
+- Machine Learning and AI Systems <br>
+- Neurmorphic Computing <br>
 
 
 ## Technical Skills
