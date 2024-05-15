@@ -24,10 +24,10 @@ I am a first year Computer Engineering PhD. Candidate at the University of Centr
 ![C](https://img.shields.io/badge/-C-7b95a6?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-68b0cc?style=for-the-badge&logo=cplusplus)
 ![Git](https://img.shields.io/badge/git-lightblue?style=for-the-badge&logo=git&logoColor=orange)
-![Linux](https://img.shields.io/badge/-Linux-yellow?style=for-the-badge&logo=linux)
+![Linux](https://img.shields.io/badge/-Linux-595f63?style=for-the-badge&logo=linux)
 ![Pytorch](https://img.shields.io/badge/PyTorch-orange?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Tensorflow](https://img.shields.io/badge/TensorFlow-yellow?style=for-the-badge&logo=tensorflow)
-![Assembly](https://img.shields.io/badge/Assembly-green?style=for-the-badge&logo=verilog&logoColor=red)
+![Assembly](https://img.shields.io/badge/Assembly-957ebf?style=for-the-badge&logo=verilog&logoColor=red)
 ![Java](https://img.shields.io/badge/Java-FF0000?style=for-the-badge&logo=java&logoColor=red)  
 
 
