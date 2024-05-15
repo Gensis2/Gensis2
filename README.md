@@ -1,5 +1,6 @@
 
-# Welcome!
+<a class ="WelcomeSVG" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Cascadia+Code&size=40&duration=1000&pause=1000&color=000000&random=false&width=435&height=75&lines=Welcome!;%D0%94%D0%BE%D0%B1%D1%80%D0%BE+%D0%BF%D0%BE%D0%B6%D0%B0%D0%BB%D0%BE%D0%B2%D0%B0%D1%82%D1%8C!" alt="Typing SVG" /></a>
+
 
 # Im Daniel Price
 I am a first year Computer Engineering PhD. Candidate at the University of Central Florida! I am driven to pursue cutting-edge research that not only advances the field of computer engineering but also addresses pressing challenges facing society today.
@@ -43,6 +44,6 @@ Lets connect and talk!
 </a>
 
 <a href="https://www.linkedin.com/in/joshuavjoseph">
-Lets connect and talk!
     <img height="32" align="left" alt="LinkedIn" src="linkedin.png" />
 </a>
+
