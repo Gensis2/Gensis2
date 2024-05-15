@@ -31,6 +31,13 @@ I am a first year Computer Engineering PhD. Candidate at the University of Centr
 ![Java](https://img.shields.io/badge/Java-FF0000?style=for-the-badge&logo=java&logoColor=red)  
 
 
+
+---
+
+## Connect!
+
+### Lets Connect and Talk!
+
 <a href="mailto:Daniel.Price@ucf.edu">
     <img height="32" align="left" alt="Mail" src="outlook.png" />
 </a>
