@@ -11,10 +11,10 @@ I am a first year Computer Engineering PhD. Candidate at the University of Centr
 :briefcase: Previous ACM UCF Student Chapter Chair @[**Association of Computing Machinery UCF**](https://www.acmucf.org/) <br>
 
 ## Research Interests
-Computer Architecture
-Hardware Accelerator Design
-Machine Learning and AI Systems
-Neurmorphic Computing
+Computer Architecture <br>
+Hardware Accelerator Design <br>
+Machine Learning and AI Systems <br>
+Neurmorphic Computing <br>
 
 
 ## Technical Skills
@@ -22,13 +22,13 @@ Neurmorphic Computing
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=verilog&logoColor=ffdd54)
 ![Verilog](https://img.shields.io/badge/Verilog-B20838?style=for-the-badge&logo=Verilog&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=verilog&logoColor=white)
-![C](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=verilog&logoColor=white)
-![Assembly](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=verilog&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=verilog&logoColor=white)
+![Assembly](https://img.shields.io/badge/Assembly-330F63?style=for-the-badge&logo=verilog&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=verilog&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=verilog&logoColor=white)
-![Linux](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=verilog&logoColor=white)
-![Pytorch](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=verilog&logoColor=white)
-![Tensorflow](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=verilog&logoColor=white)
+![Linux](https://img.shields.io/badge/linux-%23121011.svg?style=for-the-badge&logo=verilog&logoColor=white)
+![Pytorch](https://img.shields.io/badge/Pytorch-330F63?style=for-the-badge&logo=verilog&logoColor=white)
+![Tensorflow](https://img.shields.io/badge/Tensorflow-330F63?style=for-the-badge&logo=verilog&logoColor=white)
 
 <p align="center">
     <b>Looking for a software/hardware engineering intern?
