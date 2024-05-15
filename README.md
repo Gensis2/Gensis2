@@ -9,6 +9,7 @@ I am a first year Computer Engineering PhD. Candidate at the University of Centr
 :mortar_board: Bachelors Degree Graduate in Computer Engineering VLSI @ [**University of Central Florida**][https://www.ucf.edu/] <br>
 :microscope: Graduate Research Assistant @ [**Unary Lab**][https://www.unarylab.com/] <br>
 :briefcase: Previous ACM UCF Student Chapter Chair @[**Association of Computing Machinery UCF**][https://www.acmucf.org/] <br>
+:school_satchel: Sophomore studying Computer Engineering @ [**University of Central Florida**][university]<br>
 
 ## Research Interests
 Computer Architecture
