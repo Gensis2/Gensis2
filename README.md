@@ -31,18 +31,6 @@ I am a first year Computer Engineering PhD. Candidate at the University of Centr
 ![Java](https://img.shields.io/badge/Java-FF0000?style=for-the-badge&logo=java&logoColor=red)  
 
 
-<p align="center">
-    <b>Looking for a software/hardware engineering intern?
-        <a href="https://www.linkedin.com/in/joshuavjoseph">Let's connect and talk!</a>
-    </b>
-</p>
-
----
-
-<!--<a href="https://novakcgx.me">
-    <img height="32" align="left" alt="Website" src="img/icons/personal.png" />
-</a>-->
-
 <a href="mailto:Daniel.Price@ucf.edu">
     <img height="32" align="left" alt="Mail" src="outlook.png" />
 </a>
