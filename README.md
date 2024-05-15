@@ -28,7 +28,7 @@ I am a first year Computer Engineering PhD. Candidate at the University of Centr
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=verilog&logoColor=white)
 ![Linux](https://img.shields.io/badge/linux-%23121011.svg?style=for-the-badge&logo=verilog&logoColor=white)
 ![Pytorch](https://img.shields.io/badge/Pytorch-330F63?style=for-the-badge&logo=verilog&logoColor=white)
-![Tensorflow](https://img.shields.io/badge/Tensorflow-330F63?style=for-the-badge&logo=verilog&logoColor=white)
+![Tensorflow](https://img.shields.io/badge/Tensorflow-330F63?style=for-the-badge&logo=verilog&logoColor=black)
 ![Tensorflow](https://img.shields.io/badge/any_text-you_like-blue)
 
 <p align="center">
