@@ -28,7 +28,7 @@ I am a first year Computer Engineering PhD. Candidate at the University of Centr
 ![Pytorch](https://img.shields.io/badge/PyTorch-orange?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Tensorflow](https://img.shields.io/badge/TensorFlow-yellow?style=for-the-badge&logo=tensorflow)
 ![Assembly](https://img.shields.io/badge/Assembly-green?style=for-the-badge&logo=verilog&logoColor=red)
-![Java](https://img.shields.io/badge/Java-red?style=for-the-badge&logo=java&logoColor=red)  
+![Java](https://img.shields.io/badge/Java-FF0000?style=for-the-badge&logo=java&logoColor=red)  
 
 
 <p align="center">
