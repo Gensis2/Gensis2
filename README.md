@@ -20,15 +20,15 @@ I am a first year Computer Engineering PhD. Candidate at the University of Centr
 ## Technical Skills
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Verilog](https://img.shields.io/badge/Verilog-B20838?style=for-the-badge&logo=Verilog&logoColor=white)
-![C](https://img.shields.io/badge/-C-blue?style=for-the-badge&logo=c)
+![Verilog](https://img.shields.io/badge/Verilog-red?style=for-the-badge&logo=Verilog&logoColor=white)
+![C](https://img.shields.io/badge/-C-violet?style=for-the-badge&logo=c)
 ![C](https://img.shields.io/badge/-C++-blue?style=for-the-badge&logo=cplusplus)
-![Git](https://img.shields.io/badge/git-blue?style=for-the-badge&logo=git&logoColor=orange)
-![Linux](https://img.shields.io/badge/-Linux-grey?style=for-the-badge&logo=linux)
-![Pytorch](https://img.shields.io/badge/PyTorch-blue?style=for-the-badge&logo=pytorch&logoColor=white)
-![Tensorflow](https://img.shields.io/badge/TensorFlow-blue?style=for-the-badge&logo=tensorflow&logoColor=orange)
-![Assembly](https://img.shields.io/badge/Assembly-blue?style=for-the-badge&logo=verilog&logoColor=red)
-![Java](https://img.shields.io/badge/Java-blue?style=for-the-badge&logo=java&logoColor=red)  
+![Git](https://img.shields.io/badge/git-lightblue?style=for-the-badge&logo=git&logoColor=orange)
+![Linux](https://img.shields.io/badge/-Linux-yellow?style=for-the-badge&logo=linux)
+![Pytorch](https://img.shields.io/badge/PyTorch-orange?style=for-the-badge&logo=pytorch&logoColor=white)
+![Tensorflow](https://img.shields.io/badge/TensorFlow-yellow?style=for-the-badge&logo=tensorflow)
+![Assembly](https://img.shields.io/badge/Assembly-green?style=for-the-badge&logo=verilog&logoColor=red)
+![Java](https://img.shields.io/badge/Java-red?style=for-the-badge&logo=java&logoColor=red)  
 
 
 <p align="center">
