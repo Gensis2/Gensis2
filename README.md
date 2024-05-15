@@ -36,7 +36,7 @@ I am a first year Computer Engineering PhD. Candidate at the University of Centr
 
 ## Connect!
 
-### Lets Connect and Talk!
+Lets connect and talk!
 
 <a href="mailto:Daniel.Price@ucf.edu">
     <img height="32" align="left" alt="Mail" src="outlook.png" />
