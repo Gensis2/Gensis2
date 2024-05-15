@@ -22,7 +22,7 @@ Neurmorphic Computing
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=verilog&logoColor=ffdd54)
 ![Verilog](https://img.shields.io/badge/Verilog-B20838?style=for-the-badge&logo=Verilog&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=verilog&logoColor=white)
-![C++](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=verilog&logoColor=white)
+!["C++"](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=verilog&logoColor=white)
 ![Assembly](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=verilog&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=verilog&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=verilog&logoColor=white)
