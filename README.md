@@ -21,7 +21,7 @@ I am a first year Computer Engineering PhD. Candidate at the University of Centr
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=verilog&logoColor=ffdd54)
 ![Verilog](https://img.shields.io/badge/Verilog-B20838?style=for-the-badge&logo=Verilog&logoColor=white)
-![C](https://img.shields.io/badge/c-3670A0?style=for-the-badge&logo=verilog&logoColor=54de7c)
+![C](https://img.shields.io/badge/c-3670A0?style=for-the-badge&logo=verilog&logoColor=000000)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=verilog&logoColor=white)
 ![Assembly](https://img.shields.io/badge/Assembly-330F63?style=for-the-badge&logo=verilog&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=verilog&logoColor=white)
