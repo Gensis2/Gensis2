@@ -19,7 +19,7 @@ I am a first year Computer Engineering PhD. Candidate at the University of Centr
 
 ## Technical Skills
 
-![Python](https://img.shields.io/static/v1?message=React&logo=react&labelColor=1182c3&color=1182c3&logoColor=white&label=%20&style=for-the-badge)
+![Verilog](https://img.shields.io/static/v1?message=Verilog&logo=verilog&labelColor=1182c3&color=1182c3&logoColor=white&label=%20&style=for-the-badge)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Verilog](https://img.shields.io/badge/Verilog-B20838?style=for-the-badge&logo=Verilog&logoColor=white)
 ![C](https://img.shields.io/badge/c-3670A0?style=for-the-badge&logo=verilog&logoColor=white)
