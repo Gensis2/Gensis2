@@ -19,16 +19,16 @@ I am a first year Computer Engineering PhD. Candidate at the University of Centr
 
 ## Technical Skills
 
-![Verilog](https://img.shields.io/static/v1?message=Verilog&logo=verilog&labelColor=1182c3&color=1182c3&logoColor=white&label=%20&style=for-the-badge)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Verilog](https://img.shields.io/badge/Verilog-B20838?style=for-the-badge&logo=Verilog&logoColor=white)
+![Verilog](https://img.shields.io/static/v1?message=Verilog&logo=verilog&labelColor=1182c3&color=1182c3&logoColor=white&label=%20)
+![Python](https://img.shields.io/badge/python-3670A0?logo=python&logoColor=ffdd54)
+![Verilog](https://img.shields.io/badge/Verilog-B20838?logo=Verilog&logoColor=white)
 ![C/C++](https://img.shields.io/badge/-C++-red?logo=cplusplus)
-![Assembly](https://img.shields.io/badge/Assembly-330F63?style=for-the-badge&logo=verilog&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=verilog&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/linux-%23121011.svg?style=for-the-badge&logo=verilog&logoColor=white)
-![Pytorch](https://img.shields.io/badge/Pytorch-330F63?style=for-the-badge&logo=verilog&logoColor=white)
-![Tensorflow](https://img.shields.io/badge/Tensorflow-330F63?style=for-the-badge&logo=verilog&logoColor=white)
+![Assembly](https://img.shields.io/badge/Assembly-330F63?logo=verilog&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?logo=verilog&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/linux-%23121011.svg?logo=linux&logoColor=white)
+![Pytorch](https://img.shields.io/badge/Pytorch-330F63?logo=linux&logoColor=white)
+![Tensorflow](https://img.shields.io/badge/Tensorflow-330F63?logo=verilog&logoColor=white)
 
 
 <p align="center">
